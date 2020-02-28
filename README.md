@@ -1,4 +1,4 @@
-# Temperature Analysis by Latitude
+# Weather Phenomena Analysis by Latitude
 
 This project is an analysis of how various weather-related phenomena change as a function of changes in latitude. 
 
